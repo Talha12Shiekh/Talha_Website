@@ -1,0 +1,9 @@
+Create a cinematic 16:9 widescreen image of a city street lined with old red brick buildings and closely packed storefronts. The scene should feel realistic and atmospheric, with cinematic color grading and natural lighting.
+
+A single [CAR_TYPE] must be the main subject, occupying at least 90% of the image width and clearly dominating the composition. The car should be parked parallel along the street but shown at a slight front-angled perspective (three-quarter side view), similar to a real street-level photography angle, not perfectly flat or fully side-on.
+
+The [CAR_TYPE] is entirely covered in realistic [ANIMAL] fur, with matching oversized [ANIMAL] ears and nose integrated into the car’s design. The fur should look tactile, detailed, and physically believable, wrapping naturally around the body of the car.
+
+Other normal cars may appear in the background, but they must remain secondary and only partially visible. The storefronts and buildings should support the scene without distracting from the main car.
+
+Use cinematic depth of field, realistic shadows, subtle reflections on the street, and professional film-style lighting to create a high-quality, surreal yet believable image.
