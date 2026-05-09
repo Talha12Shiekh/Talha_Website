@@ -7,5 +7,4 @@ The [CAR_TYPE] is entirely covered in realistic [ANIMAL] fur, with matching over
 Other normal cars may appear in the background, but they must remain secondary and only partially visible. The storefronts and buildings should support the scene without distracting from the main car.
 
 Use cinematic depth of field, realistic shadows, subtle reflections on the street, and professional film-style lighting to create a high-quality, surreal yet believable image.
-updated
 
