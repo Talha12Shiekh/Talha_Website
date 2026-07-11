@@ -11,6 +11,8 @@ import { GlobalStyle } from "./GlobalStyle";
 import Error from "./Error";
 import GoToBtn from "./GoToBtn";
 
+// TODO: testing todo statement
+
 const Main = () => {
   const theme = {
     colors: {
