@@ -3,6 +3,8 @@ import styled from "styled-components";
 import { Button } from "./Button";
 import { FaDiscord, FaInstagram, FaYoutube } from "react-icons/fa";
 const Footer = () => {
+  console.log("Testing log statement");
+  
   return (
     <Wrapper>
       <section className="contact-short">
