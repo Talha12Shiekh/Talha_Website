@@ -12,6 +12,9 @@ import Error from "./Error";
 import GoToBtn from "./GoToBtn";
 
 const Main = () => {
+
+  console.log("Testing gitink");
+  
   const theme = {
     colors: {
       heading: "rgb(24 24 29)",
