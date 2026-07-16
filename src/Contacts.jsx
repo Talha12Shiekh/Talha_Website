@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
 const Contacts = () => {
+  console.log("For testing");
+  
   const Wrapper = styled.section`
     padding: 5rem 0;
 
